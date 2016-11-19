@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestOnliner">
+
+	<test name="PersonalCabinet">
+		<parameter name="username" value="Alexandr0390"/>
+		<parameter name="pass" value="plehov0390"/>
+		<packages>
+			<package name="demo.test"/>
+		</packages>
+	</test>
+</suite>
+
